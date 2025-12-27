@@ -1,4 +1,3 @@
-// components/navbar.tsx - NAVBAR (cart badge ilə)
 "use client";
 
 import { ShoppingCart } from "lucide-react";

@@ -1,4 +1,3 @@
-// components/CartSidebar.tsx - SƏBƏT SIDEBAR
 "use client";
 
 import { X, Minus, Plus, ShoppingBag } from "lucide-react";
